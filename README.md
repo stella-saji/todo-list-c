@@ -1,4 +1,4 @@
-# CLI To-Do List (C)
+# To-Do List (using C)
 
 **A lightweight, file-based task manager built with pure C.**
 
